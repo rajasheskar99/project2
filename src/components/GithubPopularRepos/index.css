@@ -1,0 +1,28 @@
+.main-bg {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 20px;
+}
+.title {
+  color: black;
+  font-size: 37px;
+  font-family: 'Lobster';
+  margin-bottom: 2px;
+}
+.tab-list {
+  list-style-type: none;
+  display: flex;
+}
+.item-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}

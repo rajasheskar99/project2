@@ -1,0 +1,50 @@
+.avatar {
+  height: 100px;
+  width: 100px;
+}
+
+.item-card {
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  border-radius: 10px;
+  margin: 15px;
+}
+.fail-sec {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fail-img {
+  height: 70vh;
+  width: 80%;
+}
+.item-head {
+  color: #e73959;
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.item-desc {
+  color: #1e293b;
+  font-size: 14px;
+  font-family: 'roboto';
+  margin: 5px;
+  padding: 5px;
+}
+.star {
+  height: 18px;
+  width: 18px;
+  align-self: center;
+  margin-left: 8px;
+}
+.disc-sec {
+  display: flex;
+}
